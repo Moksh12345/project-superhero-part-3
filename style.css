@@ -1,0 +1,36 @@
+.body_background {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxs4hz_TPL1zTiI1MgsIe7NpZr7bO04BB_aQ&usqp=CAU");
+    background-position: center;
+	background-size: cover;
+}
+
+#myCanvas {
+    border-width: 15px;
+    background-color: white;
+    border-style: ridge;
+}
+
+#head_info {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+span {
+    color: black;
+}
+
+h3 {
+    display: inline-block;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+    background-color: rgb(24, 127, 187);
+}
